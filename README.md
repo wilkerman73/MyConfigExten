@@ -1,0 +1,2 @@
+# MyConfigExten
+Guardar Exenciones 
